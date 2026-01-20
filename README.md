@@ -1,2 +1,2 @@
 # KNN-MNIST
-K-Nearest Neighbours (KNN) classifier implemented fully from scratch and applied to MNIST using Slowlearn, a custom educational machine learning library.
+This repository contains a **from-scratch implementation of the K-Nearest Neighbours (KNN) algorithm**, applied to the **MNIST handwritten digit dataset**, using **Slowlearn** (a custom, work-in-progress machine learning library built for learning and experimentation). No high-level ML frameworks (e.g. scikit-learn, PyTorch, TensorFlow) are used for the model itself. The focus is on understanding the full end-to-end ML pipeline and algorithmic behaviour rather than performance optimisation.
